@@ -1,0 +1,50 @@
+child _age,father_age,mother_age,father_occupation,mother_occupation,joint_or_nuclear_family,siblings,family_interaction,child_mental_state,nutrients,suggestions
+7,35,33,Business,Teacher,joint,1,daily,happy,Adequate,Continue current activities and Diet
+10,40,38,Doctor,Engineer,joint,2,weekly,anxious,Deficient in Vitamin D,"More outdoor play , Vitamin D supplements"
+4,38,34,Professor,Doctor,nuclear,0,daily,content,Adequate,Encourage regular exercise
+4,30,29,Business,Homemaker,nuclear,1,daily,depressed,Deficient in iron,"Include iron-rich foods , reduce screen time"
+6,42,40,Scientist,Engineer,joint,2,rarely,depressed,Deficient in multiple nutrient,"Balanced diet , Increase Family Interaction"
+5,29,26,Journalist,Artist,nuclear,0,weekly,happy,Adequate,"Maintain current routine , More reading time"
+9,37,34,Manager,Teacher,joint,1,daily,content,Adequate,Encourage creative activities
+6,33,33,Doctor,Nurse,nuclear,3,weekly,anxious,Deficient in Calcium,"Include calcium-rich foods , more outdoor play"
+11,45,42,Lawyer,Lawyer,nuclear,2,rarely,happy,Adequate,Continue current activities and Diet
+8,39,34,Business,Scientist,joint,1,weekly,depressed,Deficient in iron,"Include iron-rich foods , reduce screen time"
+8,41,40,Professor,Engineer,nuclear,2,weekly,depressed,Deficient in Vitamin C,"Include current routine, more reading time"
+6,28,25,Scientist,Artist,nuclear,2,daily,happy,Adequate,"Maintain current routine , More reading time"
+10,36,33,Journalist,Teacher,joint,0,daily,anxious,Deficient in Vitamin D,"More outdoor play , Vitamin D supplements"
+9,40,40,Manager,Doctor,joint,0,daily,content,Adequate,Encourage regular exercise
+5,32,28,Doctor,Homemaker,nuclear,2,weekly,happy,Adequate,Encourage creative activities
+7,44,40,Scientist,Engineer,joint,1,rarely,depressed,Deficient in multiple nutrient,"Balanced diet , Increase Family Interaction"
+4,35,34,Journalist,Nurse,nuclear,2,weekly,anxious,Deficient in Calcium,"Include calcium-rich foods , more outdoor play"
+6,38,34,Manager,Scientist,joint,1,daily,content,Adequate,Encourage regular exercise
+12,47,46,Doctor,Lawyer,nuclear,0,rarely,happy,Adequate,Continue current activities and Diet
+7,30,26,Journalist,Artist,joint,2,daily,happy,Adequate,"Maintain current routine , More reading time"
+9,34,30,Doctor,Teacher,nuclear,1,daily,depressed,Deficient in iron,"Include iron-rich foods , reduce screen time"
+10,42,42,Engineer,Engineer,joint,2,weekly,anxious,Deficient in Vitamin D,"More outdoor play , Vitamin D supplements"
+8,37,36,Doctor,Doctor,joint,0,daily,content,Adequate,Encourage regular exercise
+5,31,30,Professor,Homemaker,nuclear,1,weekly,happy,Adequate,Encourage creative activities
+7,45,43,Journalist,Engineer,nuclear,1,rarely,depressed,Deficient in multiple nutrient,"Balanced diet , Increase Family Interaction"
+6,29,28,Business,Artist,joint,2,daily,happy,Adequate,"Maintain current routine , More reading time"
+10,35,34,Professor,Teacher,joint,1,daily,anxious,Deficient in Vitamin D,"More outdoor play , Vitamin D supplements"
+8,40,39,Journalist,Scientist,nuclear,0,daily,content,Adequate,Encourage regular exercise
+4,33,32,Lawyer,Nurse,joint,1,weekly,anxious,Deficient in Calcium,"Include calcium-rich foods , more outdoor play"
+11,46,45,Engineer,Lawyer,nuclear,1,rarely,happy,Adequate,Continue current activities and Diet
+6,39,37,Doctor,Doctor,nuclear,2,daily,content,Deficient in iron,"Include iron-rich foods , reduce screen time"
+9,43,42,Lawyer,Engineer,joint,0,weekly,depressed,Deficient in Vitamin C,"Include fruits and vegetable , Increase family interaction"
+7,28,26,Manager,Artist,nuclear,2,daily,happy,Adequate,"Maintain current routine , More reading time"
+10,36,35,Manager,Teacher,joint,1,daily,anxious,Deficient in Vitamin D,"More outdoor play , Vitamin D supplements"
+5,32,31,Lawyer,Homemaker,nuclear,2,weekly,happy,Adequate,Encourage creative activities
+6,38,32,Journalist,Scientist,nuclear,1,daily,content,Adequate,Encourage regular exercise
+12,45,44,Scientist,Lawyer,joint,2,rarely,happy,Adequate,Continue current activities and Diet
+4,34,32,Business,Nurse,nuclear,1,weekly,anxious,Deficient in Calcium,"Include calcium-rich foods , more outdoor play"
+8,42,40,Business,Engineer,joint,1,daily,depressed,Deficient in multiple nutrient,"Balanced diet , Increase Family Interaction"
+7,29,25,Manager,Artist,joint,2,daily,happy,Adequate,"Maintain current routine , More reading time"
+6,40,38,Scientist,Doctor,nuclear,1,weekly,content,Deficient in iron,"Include iron-rich foods , reduce screen time"
+9,35,33,Business,Teacher,joint,2,daily,content,Adequate,Encourage regular exercise
+6,36,32,Doctor,Nurse,nuclear,1,weekly,anxious,Deficient in Vitamin D,"More outdoor play , Vitamin D supplements"
+8,39,35,Professor,Scientist,joint,2,daily,happy,Adequate,Continue current activities and Diet
+5,33,32,Engineer,Homemaker,nuclear,2,weekly,happy,Adequate,Encourage creative activities
+7,44,40,Manager,Engineer,joint,1,rarely,depressed,Deficient in multiple nutrient,"Balanced diet , Increase Family Interaction"
+4,30,26,Business,Artist,nuclear,2,daily,content,Adequate,Encourage regular exercise
+10,37,31,Lawyer,Teacher,nuclear,1,daily,anxious,Deficient in Vitamin D,"More outdoor play , Vitamin D supplements"
+6,29,28,Manager,Homemaker,joint,1,rarely,happy,Adequate,"Continue current activities and Diet , Increase Family Interaction"
